@@ -1,7 +1,0 @@
-tags
-snapsjots
-commit
-branch
-merge
-reset
-git --oneline
